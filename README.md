@@ -56,12 +56,5 @@ I'm a passionate and curious Computer Science student with a deep interest in bo
 
 > "The best error message is the one that never shows up." —  Thomas Fuchs
 
----
 
-Once you upload the **MP4**, I’ll add the actual GIF in this README and give you a download link for both the `.gif` and complete `README.md`.
 
-Would you like:
-- A **dark** or **light** version of the README?
-- To include a **personal tagline or brand name** like *Dairy Daze*?
-
-Let me know, and I’ll finalize it all for you! ​:contentReference[oaicite:0]{index=0}​
